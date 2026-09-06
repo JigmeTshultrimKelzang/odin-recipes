@@ -1,0 +1,43 @@
+* {
+    font-family: fantasy;
+    box-sizing: border-box;
+    color: rgb(208, 108, 0);
+}
+
+body {
+    background-color: rgb(78, 32, 0);
+}
+
+p,
+ul {
+    font-size: 20px;
+}
+
+.background,
+.credits {
+    padding: 10px;
+
+}
+
+.background {
+    margin: 50px;
+    border: 10px gold solid;
+    border-radius: 20px;
+    background-color: rgb(255, 233, 179);
+}
+
+.credits {
+    border-radius: 10px;
+    text-align: center;
+    background-color:rgb(78, 32, 0);
+    font-size: 12px;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    width: 300px;
+    height: auto;
+}
